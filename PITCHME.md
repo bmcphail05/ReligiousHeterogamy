@@ -1,6 +1,6 @@
-## Religious Heterogamy &
-## the Intergenerational
-## Transmission of Religion  
+### Religious Heterogamy &
+### the Intergenerational
+### Transmission of Religion  
 **A Cross-National Analysis**
 <br>
 <br>
