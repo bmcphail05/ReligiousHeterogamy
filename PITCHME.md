@@ -57,7 +57,7 @@ Source: Pew Global Religious Futures
 <br>
 <br>
 * _Religious Service Attendance_  
-9 ordered options from "Never" to "> 1/week"
+9 ordered responses from "Never" to "> 1/week"
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
@@ -67,7 +67,7 @@ Same-Faith, Mixed-Faith, Faith-None, & No Faith
 High, Low, Never
 <br>
 <br>
-### <span style="color:#e49436; font-weight:bold; text-align=center">Control Variables</span>
+### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 ---
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/rel_waffle.png&size=90%
