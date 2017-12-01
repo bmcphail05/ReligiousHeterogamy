@@ -1,5 +1,4 @@
 ## Religious Heterogamy & the Intergenerational Transmission of Religion  
-## Religious Penalty?
 **A Cross-National Analysis**
 <br>
 <br>
@@ -57,7 +56,7 @@ Source: Pew Global Religious Futures
 * 18 years old and older
 * Sampling: SRS or Multi-stage stratified
 * Multi-mode: face-to-face, mailed, and telephone
-
+iterm
 OLS regression, estimate effect of religion on income
 <br>
 <br>
