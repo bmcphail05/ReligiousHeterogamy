@@ -1,10 +1,10 @@
-### <span style="color:#e49436">Religious Heterogamy &
-### the Intergenerational
-### Transmission of Religion</span>
+### <span style="color:#e49436">Religious Heterogamy &</span>
+### <span style="color:#e49436">the Intergenerational</span>
+### <span style="color:#e49436">Transmission of Religion</span></span>
 **A Cross-National Analysis**
 <br>
 <br>
-December 7, 2017
+_December 7, 2017_
 <br>
 <br>
 **Brian L. McPhail**     
