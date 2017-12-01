@@ -14,7 +14,7 @@ _December 7, 2017_
 
 
 ---
-**What effect does religious heterogamy have on the intergenerational transmission of religion?**
+<span style="color:#e49436; font-weight:bold">What effect does religious heterogamy have on the intergenerational transmission of religion?</span>
 <br>
   * This research project draws attention to the under-recognized impact of religious heterogamy on both religious inheritance as well as the future of religion in China. Scholars have argued that transitions in a society's religious landscape are the result of generational changes in religious affiliation, belief, and practice [@chaves1989; @sherkat2001; @crockett2006; @voas2016; @chaves2017]. These changes in religiosity across generations are directly associated with differential fertility rates of religious groups [@roof1987; @mosher1992; @hout2001; @voas2003; @pewresearchcenter2015] and the efficacy of religious socialization.
 
@@ -36,7 +36,7 @@ Source: Pew Global Religious Futures
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/gini.png&size=90%
 
 ---
-### Data
+### <span style="color:#e49436; font-weight:bold">Data</span>
 
 * 2008 International Social Survey Program (ISSP) Religion III Module
   - _N_ = 59,986
@@ -47,7 +47,7 @@ Source: Pew Global Religious Futures
 <br>
 * Final Analysis Sample:  _n_ = 32,601
 ---
-### Dependent Variables
+### <span style="color:#e49436; font-weight:bold">Dependent Variables</span>
 * _Self-rated Religiousness_  
 7-point Likert type scale (extremely, very, somewhat religious/non-religious)
 <br>
@@ -60,14 +60,14 @@ Source: Pew Global Religious Futures
 9 ordered options from "Never" to "> 1/week"
 
 ---
-### Focal Independent Variables
+### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
 * _Combinations of Parental Religious ID_  
 Same-Faith, Mixed-Faith, Faith-None, & No Faith
 * _Combinations of Parental Religious Attendance_  
 High, Low, Never
 <br>
 <br>
-### Control Variables
+### <span style="color:#e49436; font-weight:bold">Control Variables</span>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 ---
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/rel_waffle.png&size=90%
@@ -76,7 +76,7 @@ High, Low, Never
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/coefficients.png&size=90%
 
 ---
-### Discussion
+### <span style="color:#e49436; font-weight:bold">Discussion</span>
 
 * **3 Paths to Success** (Dickson & Rublee 2000)  
   1) *Red* - joining the Communist Party  
