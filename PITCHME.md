@@ -45,12 +45,19 @@ Source: Pew Global Religious Futures
   - Multi-mode: face-to-face, mailed, and telephone
 <br>
 <br>
-* Final Analysis Sample: _n_ = 32,601
+* Final Analysis Sample:  _n_ = 32,601
 ---
 ### Dependent Variables
-* _Self-rated Religiousness_: 7-point Likert type scale (extremely, very, somewhat religious/non-religious)
-* _Belief in God_: 6 ordered responses from "Don't believe" to "No doubts"
-* _Religious Service Attendance_: 9 ordered options from "Never" to "> 1/week"
+* _Self-rated Religiousness_:  
+7-point Likert type scale (extremely, very, somewhat religious/non-religious)
+<br>
+<br>
+* _Belief in God_:  
+6 ordered responses from "Don't believe" to "No doubts"
+<br>
+<br>
+* _Religious Service Attendance_:  
+9 ordered options from "Never" to "> 1/week"
 
 ---
 ### Focal Independent Variables
