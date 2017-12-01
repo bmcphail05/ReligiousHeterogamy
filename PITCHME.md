@@ -1,8 +1,8 @@
-<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
 
-### <span style="color:#e49436; font-family:Roboto Slab; font-weight:bold">Religious Heterogamy &</span>
-### <span style="color:#e49436; font-family:Roboto Slab; font-weight:bold">the Intergenerational</span>
-### <span style="color:#e49436; font-family:Roboto Slab; font-weight:bold">Transmission of Religion</span></span>
+### <span style="color:#e49436; font-family:Noto Serif; font-weight:bold">Religious Heterogamy &</span>
+### <span style="color:#e49436; font-family:Noto Serif; font-weight:bold">the Intergenerational</span>
+### <span style="color:#e49436; font-family:Noto Serif; font-weight:bold">Transmission of Religion</span></span>
 **A Cross-National Analysis**
 <br>
 <br>
