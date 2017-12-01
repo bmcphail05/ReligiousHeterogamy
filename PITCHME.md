@@ -38,10 +38,12 @@ Source: Pew Global Religious Futures
 ---
 ### Data
 
-* 2008 International Social Survey Program (ISSP): Religion III Module (_N_ = 59,986)
+* 2008 International Social Survey Program (ISSP) Religion III Module
+  - _N_ = 59,986
   - 18 years old and older
   - Sampling: SRS or Multi-stage stratified
   - Multi-mode: face-to-face, mailed, and telephone
+<br>
 * Analysis Sample: _n_ = 32,601
 ---
 ### Dependent Variables
