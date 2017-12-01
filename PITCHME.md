@@ -1,6 +1,8 @@
-### <span style="color:#e49436">Religious Heterogamy &</span>
-### <span style="color:#e49436">the Intergenerational</span>
-### <span style="color:#e49436">Transmission of Religion</span></span>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+
+### <span style="color:#e49436; font-family:Roboto Slab; font-weight:bold">Religious Heterogamy &</span>
+### <span style="color:#e49436; font-family:Roboto Slab; font-weight:bold">the Intergenerational</span>
+### <span style="color:#e49436; font-family:Roboto Slab; font-weight:bold">Transmission of Religion</span></span>
 **A Cross-National Analysis**
 <br>
 <br>
@@ -55,14 +57,3 @@ High, Low, Never
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
-
-* **3 Paths to Success** (Dickson & Rublee 2000)  
-  1) *Red* - joining the Communist Party  
-  2) *Black* - getting an education  
-  3) *Gold* - going into business
-<br>
-<br>
-* Modern China is young and dynamic
-<br>
-<br>
-* Direction of the effect (Ex. Buddhism)
