@@ -9,31 +9,12 @@ _December 7, 2017_
 <br>
 **Brian L. McPhail**     
 
-
----?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/USrank.png&size=90%
-
-
 ---
 <span style="color:#e49436; font-weight:bold">What effect does religious heterogamy have on the intergenerational transmission of religion?</span>
 <br>
   * This research project draws attention to the under-recognized impact of religious heterogamy on both religious inheritance as well as the future of religion in China. Scholars have argued that transitions in a society's religious landscape are the result of generational changes in religious affiliation, belief, and practice [@chaves1989; @sherkat2001; @crockett2006; @voas2016; @chaves2017]. These changes in religiosity across generations are directly associated with differential fertility rates of religious groups [@roof1987; @mosher1992; @hout2001; @voas2003; @pewresearchcenter2015] and the efficacy of religious socialization.
-
-
 ---
-**2010 Estimates of Religion in China**
-
-Religion | % of pop.
------------- | :-------------:
-None | 52%
-Folk Religion | 22%
-Buddhism | 18%
-Christianity | 5%
-Islam | 2%
-Other | 1%
-
-Source: Pew Global Religious Futures
-
----?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/gini.png&size=90%
+### <span style="color:#e49436; font-weight:bold">More INFO on RQ</span>
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Data</span>
@@ -69,9 +50,6 @@ High, Low, Never
 <br>
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
----
----?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/rel_waffle.png&size=90%
-
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/coefficients.png&size=90%
 
