@@ -4,7 +4,7 @@
 **A Cross-National Analysis**
 <br>
 <br>
-Decemeber 7, 2017
+December 7, 2017
 <br>
 <br>
 **Brian L. McPhail**     
@@ -64,8 +64,9 @@ Source: Pew Global Religious Futures
 * _Combinations of Parental Religious ID_  
 Same-Faith, Mixed-Faith, Faith-None, & No Faith
 * _Combinations of Parental Religious Attendance_  
-High-High, Never-Never, Low-Low, High-Low, High-Never, Low-Never
-
+High, Low, Never
+<br>
+<br>
 ### Control Variables
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 ---
