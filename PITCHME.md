@@ -1,11 +1,13 @@
-## Religious Heterogamy & the Intergenerational Transmission of Religion  
+## Religious Heterogamy &
+## the Intergenerational
+## Transmission of Religion  
 **A Cross-National Analysis**
 <br>
 <br>
 Decemeber 7, 2017
 <br>
 <br>
-**Brian McPhail**     
+**Brian L. McPhail**     
 
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/USrank.png&size=90%
