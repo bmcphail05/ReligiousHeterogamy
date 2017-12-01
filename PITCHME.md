@@ -67,7 +67,7 @@ Same-Faith, Mixed-Faith, Faith-None, & No Faith
 High, Low, Never
 <br>
 <br>
-### <span style="color:#e49436; font-weight:bold">Control Variables</span>
+### <span style="color:#e49436; font-weight:bold; text-align=center">Control Variables</span>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 ---
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/rel_waffle.png&size=90%
