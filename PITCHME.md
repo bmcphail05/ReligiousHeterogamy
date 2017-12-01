@@ -44,7 +44,8 @@ Source: Pew Global Religious Futures
   - Sampling: SRS or Multi-stage stratified
   - Multi-mode: face-to-face, mailed, and telephone
 <br>
-* Analysis Sample: _n_ = 32,601
+<br>
+* Final Analysis Sample: _n_ = 32,601
 ---
 ### Dependent Variables
 * _Self-rated Religiousness_: 7-point Likert type scale (extremely, very, somewhat religious/non-religious)
