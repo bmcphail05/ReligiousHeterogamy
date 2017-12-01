@@ -48,24 +48,26 @@ Source: Pew Global Religious Futures
 * Final Analysis Sample:  _n_ = 32,601
 ---
 ### Dependent Variables
-* _Self-rated Religiousness_:  
+* _Self-rated Religiousness_  
 7-point Likert type scale (extremely, very, somewhat religious/non-religious)
 <br>
 <br>
-* _Belief in God_:  
+* _Belief in God_  
 6 ordered responses from "Don't believe" to "No doubts"
 <br>
 <br>
-* _Religious Service Attendance_:  
+* _Religious Service Attendance_  
 9 ordered options from "Never" to "> 1/week"
 
 ---
 ### Focal Independent Variables
-* _Combinations of Parental Religious ID_: Same-Faith, Mixed-Faith, Faith-None, & No Faith
-* _Combinations of Parental Religious Attendance_: High-High, Never-Never, Low-Low, High-Low, High-Never, Low-Never
+* _Combinations of Parental Religious ID_  
+Same-Faith, Mixed-Faith, Faith-None, & No Faith
+* _Combinations of Parental Religious Attendance_  
+High-High, Never-Never, Low-Low, High-Low, High-Never, Low-Never
 
 ### Control Variables
-* Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income Level
+* _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 ---
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/rel_waffle.png&size=90%
 
