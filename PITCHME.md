@@ -16,7 +16,7 @@ _December 7, 2017_
 <br>
   * This research project draws attention to the under-recognized impact of religious heterogamy on both religious inheritance as well as the future of religion in China. Scholars have argued that transitions in a society's religious landscape are the result of generational changes in religious affiliation, belief, and practice [@chaves1989; @sherkat2001; @crockett2006; @voas2016; @chaves2017]. These changes in religiosity across generations are directly associated with differential fertility rates of religious groups [@roof1987; @mosher1992; @hout2001; @voas2003; @pewresearchcenter2015] and the efficacy of religious socialization.
 ---
-### <span style="color:#e49436; font-weight:bold">More INFO on RQ</span>
+### <span style="color:#e49436; font-weight:bold">More INFO on Research Question</span>
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Data</span>
