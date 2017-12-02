@@ -1,5 +1,5 @@
 
----?image=ReligiousHeterogamy/worldmap.png
+---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/worldmap.png&size=90%
 ### <span style="color:#e49436; font-weight:bold">Religious Heterogamy &</span>
 ### <span style="color:#e49436; font-weight:bold">the Intergenerational</span>
 ### <span style="color:#e49436; font-weight:bold">Transmission of Religion</span></span>
@@ -53,7 +53,7 @@ High, Low, Never
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 
----?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/coefficients.png&size=90%
+---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/worldmap.png&size=90%
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
