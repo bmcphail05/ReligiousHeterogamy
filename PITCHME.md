@@ -1,5 +1,5 @@
 
----?image=https://github.com/bmcphail05/ReligiousHeterogamy/blob/master/worldmap.png  
+---?image=ReligiousHeterogamy/worldmap.png
 ### <span style="color:#e49436; font-weight:bold">Religious Heterogamy &</span>
 ### <span style="color:#e49436; font-weight:bold">the Intergenerational</span>
 ### <span style="color:#e49436; font-weight:bold">Transmission of Religion</span></span>
