@@ -29,19 +29,14 @@ _December 7, 2017_
   - Multi-mode: face-to-face, mailed, and telephone
 <br>
 <br>
-* Final Analysis Sample:  _n_ = 32,601
+* Final Analysis Sample:  _n_ = 32,313
 ---
 ### <span style="color:#e49436; font-weight:bold">Dependent Variables</span>
-* _Self-rated Religiousness_  
-7-point Likert type scale (extremely, very, somewhat religious/non-religious)
-<br>
-<br>
-* _Belief in God_  
-6 ordered responses from "Don't believe" to "No doubts"
-<br>
-<br>
-* _Religious Service Attendance_  
-9 ordered responses from "Never" to "> 1/week"
+* _Religiosity Scale_: standardized measures of prayer, belief in God, self-id as religious, and religious attendance  
+  - self-id: 7-point Likert type (extremely, very, somewhat)
+  - belief: 6-point from "Don't believe" to "No doubts"
+  - prayer: 11-point from from "Never" to "> 1/day"
+  - attendance: 9-point from "Never" to "> 1/week"
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
@@ -60,7 +55,7 @@ High, Low, Never
   - Level 2: Individual Respondents
 <br>
 <br>
-* Adjusts unobserved confounders that are invariant between individuals within a single country 
+* Adjusts unobserved confounders that are invariant between individuals within a single country
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/worldmap.png&size=90%
 
