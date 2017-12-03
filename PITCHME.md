@@ -1,4 +1,4 @@
-
+---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/map_world2.png&size=90%
 ### <span style="color:#e49436; font-weight:bold">Religious Heterogamy &</span>
 ### <span style="color:#e49436; font-weight:bold">the Intergenerational</span>
 ### <span style="color:#e49436; font-weight:bold">Transmission of Religion</span></span>
@@ -10,7 +10,7 @@ _December 7, 2017_
 <br>
 **Brian L. McPhail**     
 
----?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/map_world2.png&size=90%
+
 
 ---
 <span style="color:#e49436; font-weight:bold">What effect does religious heterogamy have on the intergenerational transmission of religion?</span>
