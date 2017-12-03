@@ -32,11 +32,11 @@ _December 7, 2017_
 * Final Analysis Sample:  _n_ = 32,313
 ---
 ### <span style="color:#e49436; font-weight:bold">Dependent Variables</span>
-* _Religiosity Scale_: standardized measures of prayer, belief in God, self-id as religious, and religious attendance  
-  - self-id: 7-point Likert type (extremely, very, somewhat)
-  - belief: 6-point from "Don't believe" to "No doubts"
-  - prayer: 11-point from from "Never" to "> 1/day"
-  - attendance: 9-point from "Never" to "> 1/week"
+* _Standardized Religiosity Scale_
+  - self-id: 7-point (extremely, very, somewhat)
+  - belief: 6-point (Don't believe to No doubts)
+  - prayer: 11-point (Never" to >1/day)
+  - attendance: 9-point (Never to >1/week)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
