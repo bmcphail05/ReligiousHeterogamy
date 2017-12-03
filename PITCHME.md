@@ -31,19 +31,19 @@ _December 7, 2017_
 <br>
 * Final Analysis Sample:  _n_ = 32,313
 ---
-### <span style="color:#e49436; font-weight:bold">Dependent Variables</span>
+### <span style="color:#e49436; font-weight:bold">Dependent Variable</span>
 * _Standardized Religiosity Scale_
-  - self-id: 7-point (extremely, very, somewhat)
-  - belief: 6-point (Don't believe to No doubts)
-  - prayer: 11-point (Never" to >1/day)
-  - attendance: 9-point (Never to >1/week)
+  - self-id: 7-category (extremely, very, somewhat)
+  - belief: 6-category (Don't believe to No doubts)
+  - prayer: 11-category (Never" to >1/day)
+  - attendance: 9-category (Never to >1/week)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
 * _Combinations of Parental Religious ID_  
 Same-Faith, Mixed-Faith, Faith-None, & No Faith
 * _Combinations of Parental Religious Attendance_  
-High, Low, Never
+using High, Low, Never
 <br>
 <br>
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
@@ -55,7 +55,7 @@ High, Low, Never
   - Level 2: Individual Respondents
 <br>
 <br>
-* Adjusts unobserved confounders that are invariant between individuals within a single country
+* Adjusts for unobserved confounders that are invariant between individuals within a single country
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/worldmap.png&size=90%
 
