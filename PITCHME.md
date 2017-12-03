@@ -53,6 +53,14 @@ High, Low, Never
 <br>
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
+---
+### <span style="color:#e49436; font-weight:bold">Analytic Strategy</span>
+* Multi-level Regression Analysis: Fixed Effects
+  - Level 1: Country
+  - Level 2: Individual Respondents
+<br>
+<br>
+* Adjusts unobserved confounders that are invariant between individuals within a single country 
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/worldmap.png&size=90%
 
