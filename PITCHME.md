@@ -62,7 +62,7 @@ using High, Low, Never
 * Adjusts for unobserved country-level confounders that may affect both parental and respondent religiosity
 * Focal IV is an individual-level variable (parents religious combination)
 
----?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2.png&size=90%
+---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2.png&size=auto 90%
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
