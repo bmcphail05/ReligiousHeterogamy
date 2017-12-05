@@ -53,7 +53,7 @@ using High, Low, Never
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 ---
-### <span style="color:#e49436; font-weight:bold">Analytic Strategy</span>
+<span style="color:#e49436; font-weight:bold">Analytic Strategy</span>
 * Multi-level Regression Analysis: Fixed Effects
   - Level 1: Country
   - Level 2: Individual Respondents
@@ -65,7 +65,7 @@ using High, Low, Never
 
 
 ---
-### <span style="color:#e49436; font-weight:bold">Table 1. FE Regression Analysis of Religiosity on Parent's Religious ID</span> 
+<span style="color:#e49436; font-weight:bold">Table 1. FE Regression Analysis of Religiosity on Parent's Religious ID</span>
 ![Table1](table2.png)
 
 
