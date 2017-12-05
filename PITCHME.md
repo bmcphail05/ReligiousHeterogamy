@@ -27,17 +27,19 @@ _December 7, 2017_
   - 18 years old and older
   - Sampling: SRS or Multi-stage stratified
   - Multi-mode: face-to-face, mailed, and telephone
-<br>
-<br>
+  <br>
+  <br>
 * Final Analysis Sample:  _n_ = 32,313
 ---
 ### <span style="color:#e49436; font-weight:bold">Dependent Variable</span>
-* _Standardized Religiosity Scale_ (\mu = 0, \sigma = 1, range(-1.9, 1.8))
+* _Standardized Religiosity Scale_
   - self-id: 7-pt index (extremely, very, somewhat)
   - belief: 6-pt index (Don't believe to No doubts)
   - prayer: 11-pt index (Never" to >1/day)
   - attendance: 9-pt index (Never to >1/week)
-
+  <br>
+  <br>
+  ($$\mu = 0, \sigma = 1$$, range(-1.9, 1.8))
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
 * _Combinations of Parental Religious ID_  
