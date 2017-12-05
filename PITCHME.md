@@ -65,7 +65,7 @@ using High, Low, Never
 
 
 ---
-### Table 1. Fixed Effects Regression Analysis of Parents' Religious ID
+### <span style="color:#e49436; font-weight:bold">Table 1. FE Regression Analysis of Religiosity on Parent's Religious ID</span> 
 ![Table1](table2.png)
 
 
