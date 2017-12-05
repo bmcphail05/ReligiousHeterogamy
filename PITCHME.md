@@ -62,6 +62,14 @@ using High, Low, Never
 * Adjusts for unobserved country-level confounders that may affect both parental and respondent religiosity
 * Focal IV is an individual-level variable (parents religious combination)
 
+
+
+---
+### Table 1. Fixed Effects Regression Analysis of Parents' Religious ID
+![Table1](table2.png)
+
+
+
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2.png&size=auto 90%
 
 ---
