@@ -39,9 +39,9 @@ _December 7, 2017_
   - attendance: 9-pt index (Never to >1/week)
   <br>
   <br>
-  $\mu = 0$
-  $\sigma = 1$
-  range = (-1.9, 1.8)
+$\mu = 0$  
+$\sigma = 1$  
+range = (-1.9, 1.8)
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
 * _Combinations of Parental Religious ID_  
