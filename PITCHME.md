@@ -44,7 +44,7 @@ $\sigma = 1$
 range = (-1.9, 1.8)
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
-* _Combinations of Parental Religious ID_  
+* _Combinations of Parent Religious ID_  
 Same-Faith, Mixed-Faith, Faith-None, & No Faith
 * _Combinations of Parental Religious Attendance_  
 using High, Low, Never
@@ -53,7 +53,7 @@ using High, Low, Never
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 ---
-<span style="color:#e49436; font-weight:bold">Analytic Strategy</span>
+### <span style="color:#e49436; font-weight:bold">Analytic Strategy</span>
 * Multi-level Regression Analysis: Fixed Effects
   - Level 1: Country
   - Level 2: Individual Respondents
@@ -61,14 +61,6 @@ using High, Low, Never
 <br>
 * Adjusts for unobserved country-level confounders that may affect both parental and respondent religiosity
 * Focal IV is an individual-level variable (parents religious combination)
-
-
-
----
-<span style="color:#e49436; font-weight:bold">Table 1. FE Regression Analysis of Religiosity on Parent's Religious ID</span>
-![Table1](table2.png)
-
-
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2.png&size=auto 90%
 
