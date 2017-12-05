@@ -43,7 +43,7 @@ $\mu = 0$
 $\sigma = 1$  
 range = (-1.9, 1.8)
 ---
-### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
+### <span style="color:#e49436; font-weight:bold">Focal Independent Variables: Parents' Religious Heterogamy</span>
 * _Combinations of Parent Religious ID_  
 Same-Faith, Mixed-Faith, Faith-None, & No Faith
 * _Combinations of Parental Religious Attendance_  
@@ -60,9 +60,13 @@ using High, Low, Never
 <br>
 <br>
 * Adjusts for unobserved country-level confounders that may affect both parental and respondent religiosity
-* Focal IV is an individual-level variable (parents religious combination)
+* Focal IV is an individual-level (Level 2) variable
 
----?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2.png&size=auto 90%
+---
+### <span style="color:#e49436; font-weight:bold">Table 1. FE Regression of Religiosity on Parents' Religious Heterogamy</span>
+![Table1][table2.png]
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
+---
+---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2a.png&size=auto 90%
