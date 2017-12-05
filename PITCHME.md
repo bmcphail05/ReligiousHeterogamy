@@ -63,8 +63,8 @@ using High, Low, Never
 * Focal IV is an individual-level (Level 2) variable
 
 ---
-### <span style="color:#e49436; font-weight:bold">Table 1. FE Regression of Religiosity on Parents' Religious Heterogamy</span>
-![Table1][table2.png]
+<span style="color:#e49436; font-weight:bold">Table 1. FE Regression of Religiosity on Parents' Religious Heterogamy</span>
+![Table1](table2.png)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
