@@ -9,13 +9,15 @@ _December 7, 2017_
 <br>
 <br>
 **Brian L. McPhail**     
-
-
-
 ---
-<span style="color:#e49436; font-weight:bold">What effect does religious heterogamy have on the intergenerational transmission of religion?</span>
-<br>
-  * This research project draws attention to the under-recognized impact of religious heterogamy on both religious inheritance as well as the future of religion in China. Scholars have argued that transitions in a society's religious landscape are the result of generational changes in religious affiliation, belief, and practice [@chaves1989; @sherkat2001; @crockett2006; @voas2016; @chaves2017]. These changes in religiosity across generations are directly associated with differential fertility rates of religious groups [@roof1987; @mosher1992; @hout2001; @voas2003; @pewresearchcenter2015] and the efficacy of religious socialization.
+### <span style="color:#e49436; font-weight:bold">Background</span>
+* Profound and persistent influence of parents on the religious orientations and behaviors of their children (Glass 1986; Myers 1996; Sherkat 1998; Smith 2009).
+
+* How is religion transmitted from parents to children?
+ - Social learning (Bandura 1977): children observe and reproduce parents' behavior
+ - Family solidarity (Bengtson 2002): affection and social bonds
+---
+<span style="color:#e49436; font-weight:bold">How does the overall religiosity of respondents with mixed-faith parents differ from respondents with same-faith parents?</span>
 ---
 ### <span style="color:#e49436; font-weight:bold">More INFO on Research Question</span>
 
@@ -68,5 +70,7 @@ using High, Low, Never
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
+This research project draws attention to the under-recognized impact of religious heterogamy on both religious inheritance as well as the future of religion in China. Scholars have argued that transitions in a society's religious landscape are the result of generational changes in religious affiliation, belief, and practice [@chaves1989; @sherkat2001; @crockett2006; @voas2016; @chaves2017]. These changes in religiosity across generations are directly associated with differential fertility rates of religious groups [@roof1987; @mosher1992; @hout2001; @voas2003; @pewresearchcenter2015] and the efficacy of religious socialization.
+
 ---
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2a.png&size=auto 90%
