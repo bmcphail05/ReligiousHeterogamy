@@ -57,7 +57,7 @@ range = (-1.9, 1.8)
   - High-High, High-Low, High-Never, Low-Low, Low-Never, Never-Never
 <br>
 <br>
-<span style="color:#e49436; font-weight:bold; test-align:left">C Variables</span>: _Age, Education, Self-placement in society, Female, Married, Children, Urban, Income_
+<span style="color:#e49436; font-weight:bold; test-align:left">Control Variables</span>: _Age, Education, Self-placement in society, Female, Married, Children, Urban, Income_
 ---
 ### <right><span style="color:#e49436; font-weight:bold">Analytic Strategy</span></right>
 * Multi-level Regression Analysis: Fixed Effects
