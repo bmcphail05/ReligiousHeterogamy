@@ -11,9 +11,9 @@ _December 7, 2017_
 **Brian L. McPhail**     
 ---
 ### <span style="color:#e49436; font-weight:bold">Background</span>
-* Profound and persistent influence of parents on the religious orientations and behaviors of their children (Glass 1986; Myers 1996; Sherkat 1998; Smith 2009).
+* Strong influence of parents on the religious orientations and behaviors of their children (Myers 1996; Sherkat 1998; Smith 2009).
 
-* How is religion transmitted from parents to children?
+* How is religion transmitted?
  - Social learning (Bandura 1977): children observe and reproduce parents' behavior
  - Family solidarity (Bengtson 2002): affection and social bonds
 ---
