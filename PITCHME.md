@@ -74,11 +74,8 @@ range = (-1.9, 1.8)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
-* Transitions in a society's religious landscape are largely the result of generational changes in religious affiliation, belief, and practice (Sherkat 2001; Crockett 2006; Voas & Chaves 2016).
-<br>
-<br>
-* Interreligious marriages are less effective in transmitting religion to the next generation +
-* Rates of interreligious marriage are rising in many places. =
+* Mixed-faith marriages are less effective in transmitting religion to the next generation.
+* Rates of mixed-faith marriages are increasing in many places. Implications for the future of religion?
 
 
 ---
