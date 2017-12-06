@@ -52,16 +52,9 @@ range = (-1.9, 1.8)
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
 * _Combinations of Parent Religious ID_  
-
-Parents' rel. | %
------------- | :-------------:  
-Same-Faith | 81%
-Mixed-Faith | 5%
-Faith-None | 7%
-No Faith | 7%
-
+  - Same-Faith (81%), Mixed-Faith (5%), Faith-None (7%), & No Faith (7%)
 * _Combinations of Parental Religious Attendance_  
-using High, Low, Never
+  - High-High, High-Low, High-Never, Low-Low, Low-Never, Never-Never
 <br>
 <br>
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
