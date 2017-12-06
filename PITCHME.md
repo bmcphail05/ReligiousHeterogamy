@@ -52,6 +52,7 @@ range = (-1.9, 1.8)
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
 * _Combinations of Parent Religious ID_  
+
 Parents' rel. | %
 ------------ | :-------------:  
 Same-Faith | 81%
