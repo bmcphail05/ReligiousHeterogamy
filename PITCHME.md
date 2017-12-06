@@ -53,7 +53,7 @@ using High, Low, Never
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
 * _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
 ---
-### <span style="color:#e49436; font-weight:bold">Analytic Strategy</span>
+### <right><span style="color:#e49436; font-weight:bold">Analytic Strategy</span></right>
 * Multi-level Regression Analysis: Fixed Effects
   - Level 1: Country
   - Level 2: Individual Respondents
