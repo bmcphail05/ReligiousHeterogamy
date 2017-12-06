@@ -18,6 +18,8 @@ _December 7, 2017_
  - <span style="color:#e49436; font-weight:bold">Family solidarity</span>: affection and social bonds (Bengtson 2002)
 ---
 <span style="color:#e49436; font-weight:bold">How does the overall religiosity of respondents with mixed-faith parents differ from respondents with same-faith parents?</span>
+
+*religious heterogamy* = *interreligious marriage*, *interfaith marriage*, and *mixed-faith marriage*
 ---
 ### <span style="color:#e49436; font-weight:bold">More INFO on Research Question</span>
 
