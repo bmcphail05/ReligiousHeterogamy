@@ -58,7 +58,7 @@ range = (-1.9, 1.8)
 <br>
 <br>
 ### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
-* _Age, Education, Self-placement in Society, Female, Married, Children in household, Urban, Standardized Income_
+* _Age, Education, Self-placement, Female, Married, Children, Urban, Income_
 ---
 ### <right><span style="color:#e49436; font-weight:bold">Analytic Strategy</span></right>
 * Multi-level Regression Analysis: Fixed Effects
