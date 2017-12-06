@@ -21,9 +21,9 @@ _December 7, 2017_
 ---
 <span style="color:#e49436; font-weight:bold">What if parents do not share the same religion?</span>
 
-* Mixed-faith parents in US are more likely to produce less religious children (Hoge 1978; Nelsen 1990; Petts & Knoester 2007).
+* Interreligious parents in US are more likely to produce less religious children (Hoge 1978; Nelsen 1990; Petts & Knoester 2007).
 
-* <span style="color:#e49436; font-weight:bold">Research Question:</span> How does the religiosity of respondents with mixed-faith parents differ from respondents with same-faith parents?</span> Cross-nationally?
+* <span style="color:#e49436; font-weight:bold">Research Question:</span> How does the religiosity of respondents with interreligious parents differ from respondents with same-faith parents?</span> Cross-nationally?
 
 
 ---
@@ -58,6 +58,7 @@ range = (-1.9, 1.8)
 <br>
 <br>
 <span style="color:#e49436; font-weight:bold; test-align:left">Control Variables</span>: _Age, Education, Self-placement, Female, Married, Children, Urban, Income_
+
 ---
 ### <right><span style="color:#e49436; font-weight:bold">Analytic Strategy</span></right>
 * Multi-level Regression Analysis: Fixed Effects
@@ -74,9 +75,9 @@ range = (-1.9, 1.8)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
-* Mixed-faith marriages are less effective in transmitting religion to the next generation.
-* Rates of mixed-faith marriages are increasing in many places. Implications for the future of religion?
-
+* Interreligious marriages are less effective in transmitting religion to the next generation.
+* Rates of interreligious marriages are increasing in many places.
+* Implications for the future of religion?
 
 ---
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2a.png&size=auto 90%
