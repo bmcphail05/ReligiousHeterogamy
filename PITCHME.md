@@ -23,7 +23,7 @@ _December 7, 2017_
 
 * Mixed-faith parents in US are more likely to produce less religious children (Hoge 1978; Nelsen 1990; Petts & Knoester 2007).
 
-* <span style="color:#e49436; font-weight:bold">Research Question:</span>How does the religiosity of respondents with mixed-faith parents differ from respondents with same-faith parents?</span> Cross-nationally?
+* <span style="color:#e49436; font-weight:bold">Research Question:</span> How does the religiosity of respondents with mixed-faith parents differ from respondents with same-faith parents?</span> Cross-nationally?
 
 
 ---
@@ -39,7 +39,7 @@ _December 7, 2017_
 * Final Analysis Sample:  _n_ = 32,313
 ---
 ### <span style="color:#e49436; font-weight:bold">Dependent Variable</span>
-* _Standardized Religiosity Scale_
+* _Standardized Respondent Religiosity Scale_
   - self-id: 7-pt index (extremely, very, somewhat)
   - belief: 6-pt index (Don't believe to No doubts)
   - prayer: 11-pt index (Never" to >1/day)
@@ -74,7 +74,12 @@ range = (-1.9, 1.8)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
-This research project draws attention to the under-recognized impact of religious heterogamy on both religious inheritance as well as the future of religion in China. Scholars have argued that transitions in a society's religious landscape are the result of generational changes in religious affiliation, belief, and practice [@chaves1989; @sherkat2001; @crockett2006; @voas2016; @chaves2017]. These changes in religiosity across generations are directly associated with differential fertility rates of religious groups [@roof1987; @mosher1992; @hout2001; @voas2003; @pewresearchcenter2015] and the efficacy of religious socialization.
+* Transitions in a society's religious landscape are largely the result of generational changes in religious affiliation, belief, and practice (Sherkat 2001; Crockett 2006; Voas & Chaves 2016).
+<br>
+<br>
+* Interreligious marriages are less effective in transmitting religion to the next generation +
+* Rates of interreligious marriage are rising in many places. =
+
 
 ---
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2a.png&size=auto 90%
