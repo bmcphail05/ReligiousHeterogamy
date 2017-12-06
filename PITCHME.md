@@ -14,8 +14,8 @@ _December 7, 2017_
 * Strong influence of parents on the religious orientations and behaviors of their children (Myers 1996; Sherkat 1998; Smith 2009).
 <br>
 <br>
- - <span style="color:#e49436; font-weight:bold">Social learning</span> (Bandura 1977): children observe and reproduce parents' behavior
- - <span style="color:#e49436; font-weight:bold">Family solidarity</span>(Bengtson 2002): affection and social bonds
+ - <span style="color:#e49436; font-weight:bold">Social learning</span>: children observe and reproduce parents' behavior (Bandura 1977)
+ - <span style="color:#e49436; font-weight:bold">Family solidarity</span>: affection and social bonds (Bengtson 2002)
 ---
 <span style="color:#e49436; font-weight:bold">How does the overall religiosity of respondents with mixed-faith parents differ from respondents with same-faith parents?</span>
 ---
