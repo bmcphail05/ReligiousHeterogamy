@@ -51,13 +51,13 @@ $\sigma = 1$
 range = (-1.9, 1.8)
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
-* _Combinations of Parent Religious ID_  
+* _Combinations of Parents' Religious ID_  
   - Same-Faith (81%), Mixed-Faith (5%), Faith-None (7%), & No Faith (7%)
-* _Combinations of Parental Religious Attendance_  
+* _Combinations of Parent's Religious Attendance_  
   - High-High, High-Low, High-Never, Low-Low, Low-Never, Never-Never
 <br>
 <br>
-### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
+#### <center><span style="color:#e49436; font-weight:bold">Control Variables</span></center>
 * _Age, Education, Self-placement, Female, Married, Children, Urban, Income_
 ---
 ### <right><span style="color:#e49436; font-weight:bold">Analytic Strategy</span></right>
