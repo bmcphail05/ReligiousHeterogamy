@@ -17,11 +17,14 @@ _December 7, 2017_
  - <span style="color:#e49436; font-weight:bold">Social learning</span>: children observe and reproduce parents' behavior (Bandura 1977)
  - <span style="color:#e49436; font-weight:bold">Family solidarity</span>: affection and social bonds (Bengtson 2002)
 ---
-<span style="color:#e49436; font-weight:bold">How does the overall religiosity of respondents with mixed-faith parents differ from respondents with same-faith parents?</span>
+### <span style="color:#e49436; font-weight:bold">Religious Heterogamy</span>
 
-*religious heterogamy* = *interreligious marriage*, *interfaith marriage*, and *mixed-faith marriage*
----
-### <span style="color:#e49436; font-weight:bold">More INFO on Research Question</span>
+<span style="color:#e49436; font-weight:bold">How does the religiosity of respondents with mixed-faith parents differ from respondents with same-faith parents?</span>
+
+* Research in US: mixed-faith parents = less religious children (Hoge 1978; Nelsen 1990; Petts & Knoester 2007)
+
+* Cross-nationally?
+
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Data</span>
@@ -47,9 +50,14 @@ $\mu = 0$
 $\sigma = 1$  
 range = (-1.9, 1.8)
 ---
-### <span style="color:#e49436; font-weight:bold">Focal Independent Variables: Parents' Religious Heterogamy</span>
+### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
 * _Combinations of Parent Religious ID_  
-Same-Faith, Mixed-Faith, Faith-None, & No Faith
+------------ | :-------------:
+Same-Faith | 81%
+Mixed-Faith | 5%
+Faith-None | 7%
+No Faith | 7%
+
 * _Combinations of Parental Religious Attendance_  
 using High, Low, Never
 <br>
