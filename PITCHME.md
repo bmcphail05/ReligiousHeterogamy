@@ -23,8 +23,8 @@ _December 7, 2017_
 
 * Interreligious parents in US are more likely to produce less religious children (Hoge 1978; Nelsen 1990; Petts & Knoester 2007).
 
-* <span style="color:#e49436; font-weight:bold">Research Question:</span> How does the religiosity of respondents with interreligious parents differ from respondents with same-faith parents?</span> Cross-nationally?
-
+* <span style="color:#e49436; font-weight:bold">Research Question:</span> How does the religiosity of respondents with interreligious parents differ from respondents with same-faith parents?
+  - Cross-nationally?
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Data</span>
@@ -49,11 +49,12 @@ _December 7, 2017_
 $\mu = 0$  
 $\sigma = 1$  
 range = (-1.9, 1.8)
+
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
-* _Combinations of Parents' Religious ID_
+* _Combinations of Parents' Religious ID during childhood_
   - Same-Faith (81%), Mixed-Faith (5%), Faith-None (7%), & No Faith (7%)
-* _Combinations of Parent's Religious Attendance_  
+* _Combinations of Parent's Religious Attendance during childhood_  
   - High-High, High-Low, High-Never, Low-Low, Low-Never, Never-Never
 <br>
 <br>
@@ -70,12 +71,12 @@ range = (-1.9, 1.8)
 * Focal IV is an individual-level (Level 2) variable
 
 ---
-<span style="color:#e49436; font-weight:bold">Table 1. FE Regression of Religiosity on Parents' Religious Heterogamy</span>
+<span style="color:#e49436; font-weight:bold">Fixed Effects Regression of Religiosity on Parents' Religious Heterogamy</span>
 ![Table1](table2.png)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
-* Interreligious marriages are less effective in transmitting religion to the next generation.
+* Interreligious parents are less effective in transmitting religion to the next generation.
 * Rates of interreligious marriages are increasing in many places.
 * Implications for the future of religion?
 
