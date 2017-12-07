@@ -71,7 +71,7 @@ _December 7, 2017_
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Discussion</span>
-* Interreligious parents are less effective overall in that parents who share the same religious affiliation in transmitting religion to the next generation, but this difference can largely be attributed to lower levels of religious attendance rather than having a different religious affiliation. 
+* Interreligious parents are less effective than parents who share the same religious affiliation in transmitting religion to the next generation, but this difference can largely be attributed to lower levels of religious attendance rather than having a different religious affiliation. 
 
 ---
 ---?image=https://raw.githubusercontent.com/bmcphail05/ReligiousHeterogamy/master/table2a.png&size=auto 90%
