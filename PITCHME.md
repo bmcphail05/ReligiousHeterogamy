@@ -44,11 +44,6 @@ _December 7, 2017_
   - belief: 6-pt index (Don't believe to No doubts)
   - prayer: 11-pt index (Never" to >1/day)
   - attendance: 9-pt index (Never to >1/week)
-  <br>
-  <br>
-$\mu = 0$  
-$\sigma = 1$  
-range = (-1.9, 1.8)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
