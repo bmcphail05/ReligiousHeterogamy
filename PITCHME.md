@@ -40,7 +40,7 @@ _December 7, 2017_
 ---
 ### <span style="color:#e49436; font-weight:bold">Dependent Variable</span>
 * _Standardized Respondent Religiosity Scale_
-  - self-id: 7-pt index (extremely, very, somewhat)
+  - self-rated: 7-pt index (extremely, very, somewhat)
   - belief: 6-pt index (Don't believe to No doubts)
   - prayer: 11-pt index (Never" to >1/day)
   - attendance: 9-pt index (Never to >1/week)
@@ -52,9 +52,9 @@ range = (-1.9, 1.8)
 
 ---
 ### <span style="color:#e49436; font-weight:bold">Focal Independent Variables</span>
-* _Combinations of Parents' Religious ID during childhood_
+* _Combinations of Parents' Religious ID_
   - Same-Faith (81%), Mixed-Faith (5%), Faith-None (7%), & No Faith (7%)
-* _Combinations of Parent's Religious Attendance during childhood_  
+* _Combinations of Parent's Religious Attendance_  
   - High-High, High-Low, High-Never, Low-Low, Low-Never, Never-Never
 <br>
 <br>
